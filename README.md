@@ -1,3 +1,0 @@
-musicApp
-
-Distributed music streaming system with a publish–subscribe architecture (Brokers & Publishers) and an Android client. University project.
